@@ -1,2 +1,2 @@
 # solvable
-A fully integrate excalidraw white board that features a built in llm assistant that draws out how to solve complex problems and promotes learning new math concepts.
+A fully integrated Excalidraw whiteboard with a built-in LLM assistant that interacts with users, draws out how to solve complex problems, and helps them learn new math concepts.
